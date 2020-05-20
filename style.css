@@ -21,7 +21,7 @@
   .header {
       height: 200px;
       width: 100%;
-      background-image: url(assets/image/header.jpg);
+      background-image: url(header.jpg);
 }
 .header h1 {
    font-size: 35px;
