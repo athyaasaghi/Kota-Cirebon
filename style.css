@@ -55,7 +55,7 @@ font-size: 20px;
  
  nav a:hover {
     font-weight: bold;
-    background-color: yellowgreen;
+    background-color: rgb(217, 240, 13);
  }
  
  .featured-image {
